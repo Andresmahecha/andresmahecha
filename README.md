@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤘 Hola, Mi nombe es Andrés Mahecha:
 
 🌱 Estoy aprendiendo programación en varios lenguajes<br>📖 Actualmente estoy estudiando Ingeniería en Informática
 
