@@ -1,5 +1,7 @@
 # 🤘 Hola, Mi nombe es Andrés Mahecha:
 
+![Coding - giphy](https://github.com/Andresmahecha/andresmahecha/assets/28798444/45280d87-76b5-41ff-abc3-9afa5034c4eb)
+
 #🌱 Aprendiendo programación<br>
 #📖 Actualmente estoy estudiando Ingeniería en Informática<br>
 
