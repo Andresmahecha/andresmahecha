@@ -4,6 +4,8 @@
 <br>
 #🌱 Aprendiendo programación<br>
 #📖 Actualmente estoy estudiando Ingeniería en Informática<br>
+#🐍 Curso Python - CODERHOUSE (Cursando)<br>
+#📜 Curso SQL - CODERHOUSE (Finalizado)<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresmahecha-dev/) 
 
